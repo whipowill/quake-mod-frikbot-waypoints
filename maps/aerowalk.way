@@ -1,13 +1,13 @@
 // Aerowalk - maps/aerowalk.way
-// Ways by bta.monster - Updated by Lightning Hunter
+// Ways by DoomGuy
 saved1 -227; saved2 -671; saved3 270
-scratch1 56; scratch2 57; scratch3 50; scratch4 0
+scratch1 56; scratch2 3; scratch3 50; scratch4 0
 saved4 1; wait
 saved1 -271; saved2 -394
 scratch2 27; scratch3 43
 saved4 2; wait
 saved1 -394; saved2 -675
-scratch1 57; scratch2 49; scratch3 45
+scratch1 1; scratch2 49; scratch3 45
 saved4 2; wait
 saved1 -405; saved2 -876
 scratch1 49; scratch2 5; scratch3 6
@@ -37,7 +37,7 @@ saved1 -264; saved2 -417
 scratch1 52; scratch2 13; scratch3 27
 saved4 2; wait
 saved1 -141; saved2 -412
-scratch1 12; scratch2 14; scratch3 60
+scratch1 12; scratch2 14; scratch3 59
 saved4 2; wait
 saved1 -46; saved2 -331
 scratch1 13; scratch2 15; scratch3 27
@@ -55,7 +55,7 @@ saved1 220; saved2 88
 scratch1 17; scratch2 19; scratch3 0
 saved4 2; wait
 saved1 128; saved2 84; saved3 270
-scratch1 59; scratch2 29
+scratch1 58; scratch2 29
 saved4 2; wait
 saved1 282; saved2 262; saved3 462
 scratch1 17; scratch2 21; scratch3 22
@@ -67,13 +67,13 @@ saved1 173; saved2 495
 scratch2 23
 saved4 2; wait
 saved1 -333; saved2 478; saved3 270
-scratch1 22; scratch2 58; scratch3 30; scratch4 46
+scratch1 22; scratch2 57; scratch3 30; scratch4 46
 saved4 2; wait
 saved1 -298; saved3 462
 scratch2 53; scratch3 0; scratch4 0
 saved4 2; wait
 saved1 -318; saved2 173; saved3 270
-scratch1 58; scratch2 26
+scratch1 57; scratch2 26
 saved4 2; wait
 saved1 -170; saved2 174
 scratch1 25; scratch2 27; scratch3 28
@@ -82,7 +82,7 @@ saved1 -199; saved2 -113; saved3 46
 scratch1 55; scratch2 39; scratch3 42
 saved4 2; wait
 saved1 -75; saved2 105; saved3 270
-scratch1 26; scratch2 59; scratch3 0
+scratch1 26; scratch2 58; scratch3 0
 saved4 2; wait
 saved1 128; saved2 -75
 scratch1 15; scratch2 0
@@ -127,12 +127,12 @@ saved1 -75; saved2 -107
 scratch1 27; scratch2 43
 saved4 10; wait
 saved1 -144; saved2 -319; saved3 270
-scratch1 2; scratch2 60; scratch3 27
+scratch1 2; scratch2 59; scratch3 27
 saved4 2; wait
 saved1 -669; saved2 -494; saved3 174
 scratch1 38; scratch2 45; scratch3 0
 saved4 2; wait
-saved1 -656; saved2 -682
+saved1 -717; saved2 -676
 scratch1 44; scratch2 3
 saved4 2; wait
 saved1 -243; saved2 544; saved3 270
@@ -167,9 +167,6 @@ scratch1 54; scratch2 27
 saved4 2; wait
 saved1 -264; saved2 -491; saved3 270
 scratch1 1; scratch2 2
-saved4 2; wait
-saved1 -330; saved2 -667
-scratch1 3; scratch2 1
 saved4 2; wait
 saved1 -324; saved2 260
 scratch1 25; scratch2 23
