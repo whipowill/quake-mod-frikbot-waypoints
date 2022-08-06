@@ -1,5 +1,5 @@
 // The Dark Zone - Mr. Fancypants - maps/dm6_fp.way
-// Ways by DoomGuy
+// Ways by Scarlet
 saved1 -760; saved2 -408; saved3 62
 scratch1 2; scratch2 3; scratch3 0; scratch4 0
 saved4 1; wait
@@ -8,7 +8,7 @@ saved4 2; wait
 saved1 -937
 scratch2 4
 saved4 2; wait
-saved1 -926; saved2 -564
+saved1 -997; saved2 -564
 scratch1 3; scratch2 5; scratch3 28
 saved4 2; wait
 saved1 -972; saved2 -931; saved3 94
@@ -65,14 +65,14 @@ saved4 2; wait
 saved1 -35; saved2 639
 scratch1 21; scratch2 23
 saved4 2; wait
-saved1 -20; saved2 141; saved3 -18
+saved1 -17; saved2 222; saved3 14
 scratch1 22; scratch2 24; scratch3 29
 saved4 2; wait
-saved1 161; saved2 -24
-scratch1 23; scratch2 25; scratch3 26
+saved1 223; saved2 -15; saved3 -2
+scratch1 23; scratch2 25; scratch3 26; scratch4 44
 saved4 2; wait
 saved1 687; saved2 5; saved3 62
-scratch1 24; scratch2 19; scratch3 0
+scratch1 24; scratch2 19; scratch3 0; scratch4 0
 saved4 2; wait
 saved1 -12; saved2 -200; saved3 -2
 scratch2 27; scratch3 29
@@ -80,7 +80,7 @@ saved4 2; wait
 saved1 -25; saved2 -544; saved3 62
 scratch1 26; scratch2 28; scratch3 0
 saved4 2; wait
-saved1 -514; saved2 -545
+saved1 -687; saved2 -580
 scratch1 27; scratch2 4; scratch3 34
 saved4 2; wait
 saved1 -185; saved2 22; saved3 -22
@@ -95,10 +95,10 @@ saved4 2; wait
 saved1 -864; saved2 -297; saved3 190
 scratch1 31; scratch2 0; scratch3 0; scratch4 0
 saved4 2; wait
-saved1 -872; saved2 250; saved3 222
+saved1 -862; saved2 260; saved3 237
 scratch2 34
 saved4 10; wait
-saved1 -653; saved2 -599; saved3 62
+saved1 -776; saved2 -705; saved3 62
 scratch1 28; scratch2 33
 saved4 10; wait
 saved1 853; saved2 922; saved3 206
@@ -127,6 +127,9 @@ scratch1 43; scratch2 0
 saved4 2; wait
 saved1 -718; saved2 2
 scratch1 42; scratch2 24
+saved4 10; wait
+saved1 82; saved2 4; saved3 -3
+scratch1 24; scratch2 34
 saved4 10; wait
 saved4 3
 // end waypoint dump
