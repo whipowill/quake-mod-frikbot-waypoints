@@ -1,5 +1,5 @@
 // ŽBless To Kill - CDMTŽ by headshot - maps/blessed.way
-// Ways by lightninghunter
+// Ways by DoomGuy
 saved1 990; saved2 -320; saved3 -178
 scratch1 2; scratch2 4; scratch3 39; scratch4 0
 saved4 5; wait
@@ -26,10 +26,10 @@ scratch1 7; scratch2 9
 saved4 2; wait
 saved1 669; saved2 -685
 scratch1 8; scratch2 10
-saved4 2; wait
+saved4 4098; wait
 saved1 800; saved2 -669; saved3 -39
 scratch1 11; scratch2 0
-saved4 8194; wait
+saved4 2; wait
 saved1 803; saved2 -670; saved3 135
 scratch1 12
 saved4 2; wait
