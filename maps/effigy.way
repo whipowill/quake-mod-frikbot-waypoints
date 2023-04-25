@@ -1,5 +1,5 @@
 // :effigy of the forgotten: by moloch - maps/effigy.way
-// Ways by lightninghunter
+// Ways by DoomGuy
 saved1 -2815; saved2 -144; saved3 -306
 scratch1 2; scratch2 11; scratch3 0; scratch4 0
 saved4 1; wait
@@ -123,7 +123,7 @@ saved4 2; wait
 saved1 -3101; saved2 -340; saved3 -464
 scratch1 40; scratch2 21
 saved4 2; wait
-saved1 -2014; saved2 46; saved3 -530
+saved1 -2015; saved2 24; saved3 -535
 scratch1 43; scratch2 0
 saved4 131138; wait
 saved1 -2019; saved2 56; saved3 -309
@@ -135,10 +135,10 @@ saved4 2; wait
 saved1 -2110; saved2 -957; saved3 -482
 scratch1 44; scratch2 46; scratch3 50
 saved4 2; wait
-saved1 -2113; saved2 -1141; saved3 -466
+saved1 -2123; saved2 -1191; saved3 -457
 scratch1 47; scratch2 0; scratch3 0
 saved4 139330; wait
-saved2 -1121; saved3 -274
+saved1 -2113; saved2 -1121; saved3 -274
 scratch1 10
 saved4 66; wait
 saved1 -2138; saved2 -741

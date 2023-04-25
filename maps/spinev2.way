@@ -1,6 +1,8 @@
-// spine v2 - qonference '98 tournament map
-// rev. 2.0 by headshot - maps/spinev2.way
-// Ways by bta.monster - updated by Lightning Hunter
+// Žspine v2Ž
+qonference '98 tournament map
+rev. 2.0
+by headshot - maps/spinev2.way
+// Ways by DoomGuy
 saved1 -413; saved2 -122; saved3 142
 scratch1 2; scratch2 4; scratch3 49; scratch4 23
 saved4 1; wait
@@ -36,7 +38,7 @@ scratch1 10; scratch2 12; scratch3 48; scratch4 27
 saved4 2; wait
 saved1 -40; saved2 676
 scratch1 11; scratch2 13; scratch3 14; scratch4 0
-saved4 18; wait
+saved4 146; wait
 saved1 78; saved2 700
 scratch1 12; scratch2 47; scratch3 0
 saved4 2; wait
